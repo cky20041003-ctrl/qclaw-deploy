@@ -1,2 +1,0 @@
-{ “name”: “qclaw-gateway”, “version”: “1.0.0”, “description”: “QClaw WeChat Gateway”, “main”: “index.js”, “scripts”: { “start”: “node index.js” }, “dependencies”: {}
-}
